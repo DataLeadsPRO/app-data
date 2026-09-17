@@ -1,0 +1,32 @@
+[
+  {
+    "name": "app_gplay_details",
+    "method": "POST",
+    "path": "/app/gplay/details",
+    "description": "V1 App Gplay Details"
+  },
+  {
+    "name": "app_gplay_reviews",
+    "method": "POST",
+    "path": "/app/gplay/reviews",
+    "description": "V1 App Gplay Reviews"
+  },
+  {
+    "name": "app_apple_search",
+    "method": "POST",
+    "path": "/app/apple/search",
+    "description": "V1 App Apple Search"
+  },
+  {
+    "name": "app_apple_details",
+    "method": "POST",
+    "path": "/app/apple/details",
+    "description": "V1 App Apple Details"
+  },
+  {
+    "name": "app_apple_reviews",
+    "method": "POST",
+    "path": "/app/apple/reviews",
+    "description": "V1 App Apple Reviews"
+  }
+]
